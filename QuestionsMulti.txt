@@ -1,0 +1,29 @@
+4
+The following are brands of cars
+General
+Mercedes-Benz.
+BMW.
+CSGO.
+1
+1
+0
+
+5
+Countries that have an ocean opening.
+Geography
+Romania.
+Switzerland.
+Spain.
+0
+0
+1
+
+6
+Countries that are in Europe
+Geography
+Romania
+Canada
+China
+1
+0
+0
